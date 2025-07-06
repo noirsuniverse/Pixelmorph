@@ -2,7 +2,7 @@
 **Convert, resize, and optimize images in multiple formats**  
 *A SwiftUI-powered iOS app for seamless image format conversion*
 
-![Demo GIF](Example1.gif) *(Upload a screen recording to your repo and link it here)*
+![Demo GIF](Example1.gif) ![Demo GIF](Example2.gif)
 
 ## ✨ Features
 - Convert images to **PNG, JPEG, HEIC, TIFF, BMP**
