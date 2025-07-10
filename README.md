@@ -153,4 +153,15 @@ struct ContentView: View {
         UIImageWriteToSavedPhotosAlbum(image, nil, nil, nil)
     }
 }
+```
+## **🛠️Installation**
+1. **Requirements:** Xcode 15+, IOS 16+
+2. Clone the repo
+   git clone https://github.com/yourusername/PixelMorph.git
+3. Open ```Pixelmorph.xcodeproj``` and build
 
+## **🤝Contribute**
+Found a issue? Want more formats to the project?
+1. Fork a repo
+2. Create a branch ```( git checkout -b feature/your-idea )```
+3. Submit a PR!
